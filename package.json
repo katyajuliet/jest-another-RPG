@@ -1,22 +1,17 @@
 {
-  "name": "jest-another-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "jest another rpg",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "JEST"
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/katyajuliet/jest-another-RPG.git"
-  },
-  "author": "Katya J Lerner",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/katyajuliet/jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/katyajuliet/jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^28.1.0"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
+
